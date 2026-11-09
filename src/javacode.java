@@ -1,1 +1,2 @@
-full code bai
+way instructions sa canvas maoning part 1?
+  
